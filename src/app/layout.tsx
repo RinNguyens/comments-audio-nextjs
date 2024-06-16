@@ -4,7 +4,7 @@ import "../globals.css";
 import { Providers } from "./Providers";
 
 export const metadata: Metadata = {
-  title: "Soundblocks | Liveblocks example",
+  title: "SoundRins | Liveblocks example",
   description:
     "This example shows how to build a audio player with comments using Liveblocks, and Next.js.",
 };

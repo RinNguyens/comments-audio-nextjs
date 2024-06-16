@@ -13,7 +13,7 @@ export default function Home() {
       <div className="relative py-4 px-5 sm:p-6 mx-auto max-w-screen-lg flex flex-col">
         <header className="flex justify-between items-center">
           <h1>
-            <span className="sr-only">SoundBlocks</span>
+            <span className="sr-only">SoundRins</span>
             <Logo className="h-4 sm:h-5 w-auto fill-current" />
           </h1>
           <Presence />

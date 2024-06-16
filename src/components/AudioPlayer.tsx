@@ -12,7 +12,7 @@ import Image from "next/image";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { Pause as PauseIcon, Play as PlayIcon } from "react-feather";
 
-const audioSrc = "/titanium-170190.mp3";
+const audioSrc = "/nolovenolife.mp3";
 
 export function AudioPlayer() {
   const updateMyPresence = useUpdateMyPresence();
@@ -176,8 +176,8 @@ export function AudioPlayer() {
             </span>
           </div>
           <div className="flex flex-col items-center text-center">
-            <span className="font-medium text-lg">The Velvet Whispers</span>
-            <span className="text-neutral-600">Ephemeral Echoes</span>
+            <span className="font-medium text-lg">NoLoveNoLife</span>
+            <span className="text-neutral-600">NHATHUHAI</span>
           </div>
         </div>
       </div>
