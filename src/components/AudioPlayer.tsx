@@ -176,8 +176,14 @@ export function AudioPlayer() {
             </span>
           </div>
           <div className="flex flex-col items-center text-center">
-            <span className="font-medium text-lg">NoLoveNoLife</span>
-            <span className="text-neutral-600">NHATHUHAI</span>
+            <span className="font-medium text-lg">NOLOVENOLIFE</span>
+            <span className="text-neutral-600">HIEUTHUHAI</span>
+            <div className="mt-4">
+              <i className="text-neutral-500">
+              Em luôn tự tin, thu hút, điểm số luôn nằm ở top đầu <br/>
+              Lần đầu gặp thì anh đã nhìn thấu và cũng chẳng cần giấu là hai ta khớp màu
+              </i>
+            </div>
           </div>
         </div>
       </div>
